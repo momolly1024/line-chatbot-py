@@ -1,0 +1,3 @@
+line-bot-sdk==2.3.0
+flask==2.1.2
+requests==2.28.0
